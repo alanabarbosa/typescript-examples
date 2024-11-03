@@ -30,7 +30,7 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Ignore JavaScript files in build folders (if applicable)
-*.js
-*.js
+# Ignore JavaScript files
+/*.js
+
 
