@@ -9,6 +9,6 @@ class Produto {
     }
 }
 
-console.log(new Produto("Celular", "Preto", 50.0))
-console.log(new Produto("Computador", "Branco", 1350.0))
-console.log(new Produto("iPad", "Cinza", 6750.0))
+console.log(new Produto("Celular", "Preto", 50.0));
+console.log(new Produto("Computador", "Branco", 1350.0));
+console.log(new Produto("iPad", "Cinza", 6750.0));
